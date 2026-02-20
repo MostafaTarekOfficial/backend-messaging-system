@@ -13,7 +13,6 @@ This is a scalable RESTful API built with **Node.js** and **Express.js**, follow
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Authentication:** JWT (jsonwebtoken)
-- **Validation:** Joi or Express-validator
 - **Testing:** Postman
 
 ## 📁 Project Structure
